@@ -33,10 +33,10 @@ return 0;
 —— *Liuzhenyu · 2025.9.29*  
 ---
 ```
-#include<stdio.h>
+#include<stdio.h>                                   
 int main(){                                          
 printf("Hello zhuiguang");
-return 0;
+return 0;                                 
 }
 ```
 **「我来力！！！追光之人，终将光芒万丈！」**
