@@ -34,7 +34,7 @@ return 0;
 ---
 ```
 #include<stdio.h>
-int main(){
+int main(){                                          
 printf("Hello zhuiguang");
 return 0;
 }
