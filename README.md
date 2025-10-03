@@ -22,27 +22,23 @@
 ---
 
 ```
-                          #include <iostream>                                   
-                          int main() {                                          
-                          std::cout << "Hello, World!" << std::endl;
-                          return 0;                                 
-                          }                                                     
+#include <iostream>                                   
+int main() {                                          
+std::cout << "Hello, World!" << std::endl;
+return 0;                                 
+}                                                     
 ```
 
 **「我是第二个提交的吗」**     
 —— *Liuzhenyu · 2025.9.29*  
 ---
-<div align="center">
-
-<pre>
 #include<iostream.h>
 int main()
 {
-    printf("Hello zhuiguang");
-    return 0;
+printf("Hello zhuiguang");
+return 0;
 }
-</pre>
-</div>
+
 **「我来力！！！追光之人，终将光芒万丈！」**
 —— *DU guanzheng . 2025.10.3*
 
